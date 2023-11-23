@@ -155,4 +155,4 @@ else:
     print("This image is of a Cat.")
 
 ## SAVE THE MODEL
-model.save(os.path.join('models', 'dogcatclassifier.h5'))
+#model.save(os.path.join('models', 'dogcatclassifier.h5'))
